@@ -1,4 +1,4 @@
-# Git Credential Cache
+# Credential Cache for HTTPS auth
 
 Github recommends cloning repositories via HTTPS. However, pushing changes requires entering your username and password each time. This can be avoided by using [git-credential-cache](https://git-scm.com/docs/git-credential-cache).
 

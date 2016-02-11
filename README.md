@@ -1,6 +1,15 @@
 # TIL
 
-Today I Learned. 
+> Today I Learned
 
-(todo)
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. This was blatently copied from [jbranchaud/til](https://github.com/jbranchaud/til] which I discovered from this [HN post](https://news.ycombinator.com/item?id=11068902).
 
+---
+## Categories 
+
+* [git](#git)
+
+---
+## Git
+
+* [Credential cache for HTTPS auth](git/credential-cache.md) 
