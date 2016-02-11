@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. This was blatently copied from [jbranchaud/til](https://github.com/jbranchaud/til] which I discovered from this [HN post](https://news.ycombinator.com/item?id=11068902).
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. This was blatently copied from [jbranchaud/til](https://github.com/jbranchaud/til) which I discovered from this [HN post](https://news.ycombinator.com/item?id=11068902).
 
 ---
 ## Categories 
