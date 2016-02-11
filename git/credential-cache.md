@@ -16,5 +16,11 @@ After entering valid credentials they will be cached for 7200 seconds. The timeo
 
 Also if using multifactor authentication a Personal access token must be used instead of a regular username and password. These can be generated and revoked at [https://github.com/settings/tokens](https://github.com/settings/tokens).
 
+## OSX
 
+Github provides [instructions](https://help.github.com/articles/caching-your-github-password-in-git/) on how to set it up on the mac. Basically this is: 
+
+```
+> git config --global credential.helper osxkeychain
+```
 
