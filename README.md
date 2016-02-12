@@ -7,9 +7,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ---
 ## Categories 
 
-
 * [git](#git)
 * [OSX](#osx)
+* * [sysops](#sysops)
 
 ---
 ## Git
@@ -19,3 +19,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## OS X
 
 * [Protect against corrupt timemachine backups with ZFS on FreeNAS](osx/timemachine-zfs-freenas.md)
+
+## SysOps
+
+Sysadmin and operations related things
+
+* [curl with dns override](sysops/curl-dns-override.md) - useful for testing services before repointing DNS
