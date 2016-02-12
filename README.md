@@ -9,7 +9,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 * [git](#git)
 * [OSX](#osx)
-* * [sysops](#sysops)
+* [sysops](#sysops)
 
 ---
 ## Git
