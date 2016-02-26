@@ -9,12 +9,17 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 * [git](#git)
 * [OSX](#osx)
+* [puppet](#puppet)
 * [sysops](#sysops)
 
 ---
 ## Git
 
 * [Credential cache for HTTPS auth](git/credential-cache.md) 
+
+## Puppet
+
+* [Using versioncmp in a conditional](puppet/versioncmp.md) 
 
 ## OS X
 
