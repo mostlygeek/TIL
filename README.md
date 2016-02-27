@@ -13,6 +13,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [sysops](#sysops)
 
 ---
+## Golang
+
+* [Speed up vendored cgo libaries](golang/speedup-vendored-cgo-libs.md)
+
 ## Git
 
 * [Credential cache for HTTPS auth](git/credential-cache.md) 
