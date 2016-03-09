@@ -34,3 +34,4 @@ A collection of concise write-ups on small things I learn day to day across a va
 Sysadmin and operations related things
 
 * [curl with dns override](sysops/curl-dns-override.md) - useful for testing TLS services before repointing DNS
+* [make journald production ready](sysops/journald-prod-ready.md) - better settings for a production server
