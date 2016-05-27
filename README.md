@@ -42,3 +42,4 @@ Sysadmin and operations related things
 * [make journald production ready](sysops/journald-prod-ready.md) - better settings for a production server
 * [install dev tools in centos](sysops/install-dev-tools.md) -  install all necesary tools to compile things from source
 * [configure docker for direct-lvm](sysops/docker-direct-lvm.md) - much faster than default loopback storage in centos7
+* [FreeBSD Debugging pubkey ssh login](sysops/freebsd-ssh.md) - pubkey login failing for FreeBSD? `tail /var/log/auth.log`.  
